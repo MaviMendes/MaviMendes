@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 I like: coffee, vegan hamburguer and pizza, read a good book when it's raining
 - ⚡ Fun fact: I've started majoring at computer science knowing nothing about programming, but I loved it and now i'm always trying to learn and improve
 -->
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2Fmavirmendes)  ![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&logoColor=black&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmariavitoriaribeiromendes%2F)  ![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&logoColor=black&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fmariavitoriarm%2F)
