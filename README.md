@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently majoring in Computer Science at USP
-- 🌱 Learning C, JavaScript, HTML and CSS
+- 🌱 Currently learning C, Python and Java
 - 👯 I’m looking to collaborate on projects that can have a positive impact on society
 - 💬 Ask me about my projects, my major or anything else
 - 📫 How to reach me: mariavitoriarm@usp.br
