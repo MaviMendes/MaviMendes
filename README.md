@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently majoring in Computer Science at USP
-- 🌱 Currently learning C, Python and Java
+- ⚡🔭 Co-founder of GEMPRO (Grupo de Estudos para Maratona de Programação, USP RP)
+- 🌱 Currently learning and using C++,C and Python
 - 👯 I’m looking to collaborate on projects that can have a positive impact on society
 - 💬 Ask me about my projects, my major or anything else
 - 📫 How to reach me: mariavitoriarm@usp.br
