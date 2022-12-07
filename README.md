@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently majoring in Computer Science at USP and I'm a data engineering intern at Amaro
+- 🔭 I’m currently majoring in Computer Science at USP and I'm a Solutions Architect Intern at AWS
 - ⚡🔭 Co-founder of GEMPRO (Grupo de Estudos para Maratona de Programação, USP RP)
-- 🌱 Currently learning and using C++,C, Python and Java
+- 🌱 Currently learning Cloud Concepts
 - 👯 I’m looking to collaborate on projects that can have a positive impact on society
 - 💬 Ask me about my projects, my major or anything else
 - 📫 How to reach me: mariavitoriarm@usp.br
